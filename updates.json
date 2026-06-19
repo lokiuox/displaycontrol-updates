@@ -11,6 +11,14 @@
                    ],
     "displayFirmware":  [
                             {
+                                "version":  "0.2.29",
+                                "downloadUrl":  "https://lokiuox.github.com/displaycontrol-updates/Firmware/display_control_firmware-0.2.29.zip",
+                                "sha256":  "99e3a04eede465056df5eb29eeabd02466f21b2ed30169c460a4249462450743",
+                                "changelog":  [
+                                                  "Display Firmware 0.2.29 release."
+                                              ]
+                            },
+                            {
                                 "version":  "0.2.28",
                                 "downloadUrl":  "https://lokiuox.github.com/displaycontrol-updates/Firmware/display_control_firmware-0.2.28.zip",
                                 "sha256":  "bcb5e384f939c8bf58c933d9f1d32f7c80ea8a80c2b378bed5e01923c9055d87",
