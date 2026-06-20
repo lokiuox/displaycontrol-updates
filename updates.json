@@ -1,21 +1,21 @@
 ﻿{
     "trayClient":  [
                        {
-                           "version":  "0.1.4",
-                           "downloadUrl":  "https://lokiuox.github.io/displaycontrol-updates/App/DisplayControlSetup-0.1.4.exe",
-                           "sha256":  "660eb680fccd66f2fd9aabae26cc389622f3c8c3b460c655173d5f8db3d8a624",
+                           "version":  "0.1.5",
+                           "downloadUrl":  "https://lokiuox.github.io/displaycontrol-updates/App/DisplayControlSetup-0.1.5.exe",
+                           "sha256":  "dc8fbc1653ccdb401c00481758b056a4370a2517f1c45b744773561a68e1badb",
                            "changelog":  [
-                                             "Tray Client 0.1.4 release."
+                                             "Tray Client 0.1.5 release."
                                          ]
                        }
                    ],
     "displayFirmware":  [
                             {
-                                "version":  "0.2.35",
-                                "downloadUrl":  "https://lokiuox.github.io/displaycontrol-updates/Firmware/display_control_firmware-0.2.35.zip",
-                                "sha256":  "270b702dd26f8cc7f91ce6c25cd49d78243725b494b012136484466230f49f7f",
+                                "version":  "0.2.36",
+                                "downloadUrl":  "https://lokiuox.github.io/displaycontrol-updates/Firmware/display_control_firmware-0.2.36.zip",
+                                "sha256":  "e236373de534a7c3e4a3ec920261c6e4dccf9e45c59ca35f6b62abf151e41067",
                                 "changelog":  [
-                                                  "Display Firmware 0.2.35 release."
+                                                  "Display Firmware 0.2.36 release."
                                               ]
                             }
                         ]
