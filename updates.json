@@ -1,11 +1,11 @@
 ﻿{
     "trayClient":  [
                        {
-                           "version":  "0.1.21",
-                           "downloadUrl":  "https://lokiuox.github.io/displaycontrol-updates/App/DisplayControlSetup-0.1.21.exe",
-                           "sha256":  "741c0cf158030cc0a7ff79aa2298cd38cda68e92b7abfb60849b10d7214dcc68",
+                           "version":  "0.1.22",
+                           "downloadUrl":  "https://lokiuox.github.io/displaycontrol-updates/App/DisplayControlSetup-0.1.22.exe",
+                           "sha256":  "ade1e3d954ca9d46c0a7f996a0942945b0172b555f38f495948057c1d8143294",
                            "changelog":  [
-                                             "Tray Client 0.1.21 release."
+                                             "Tray Client 0.1.22 release."
                                          ]
                        }
                    ],
